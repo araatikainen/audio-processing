@@ -2,8 +2,7 @@
 # COMP.SGN.120-2023-2024-1 Introduction to Audio Processing
 
 # Name: Arttu Raatikainen
-# Student number: H291629
-# email: arttu.raatikainen@tuni.fi
+
 
 """
 This is a demo version of the real project. The real project is done with notebook.

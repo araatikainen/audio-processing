@@ -3,8 +3,7 @@
 # ## COMP.SGN.120-2023-2024-1 Introduction to Audio Processing
 # 
 # ### Name: Arttu Raatikainen
-# ### Student number: H291629
-# ### email: arttu.raatikainen@tuni.fi
+
 # 
 # 
 # Purpose of this project is to define a model based on audio files and train it to predict the category of audio files.
